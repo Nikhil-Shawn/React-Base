@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Base/static/css/main.73b7e1ee.css",
+    "main.js": "/React-Base/static/js/main.1e4e6671.js",
+    "static/media/me-about1.webp": "/React-Base/static/media/me-about1.0a38440a844bb12025bc.webp",
+    "static/media/nik-cv.pdf": "/React-Base/static/media/nik-cv.cbc9ea1425da59ed867a.pdf",
+    "static/media/portfolio5.png": "/React-Base/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/React-Base/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/React-Base/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/React-Base/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/me-new.jpg": "/React-Base/static/media/me-new.06fdcd4b75297b2453cc.jpg",
+    "static/media/portfolio3.jpg": "/React-Base/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/React-Base/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/React-Base/index.html",
+    "main.73b7e1ee.css.map": "/React-Base/static/css/main.73b7e1ee.css.map",
+    "main.1e4e6671.js.map": "/React-Base/static/js/main.1e4e6671.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73b7e1ee.css",
+    "static/js/main.1e4e6671.js"
+  ]
+}
